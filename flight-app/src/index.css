@@ -1,0 +1,15 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://www.pixel4k.com/wp-content/uploads/2018/11/wing-aircraft-flight-sky-sunset-4k_1541116981.jpg.webp');
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
